@@ -1,4 +1,5 @@
 # i2i-Academy-IntroductionToCloud-1
+
 # Introduction to Cloud - Homework 1
 
 This repository contains my solution for the Introduction to Cloud homework.
@@ -34,5 +35,10 @@ Commands executed:
 ```bash
 echo "Hello i2i Academy!" > hello.txt
 cat hello.txt
+```
+
+![SSH Connection](images/ssh-hello.png)
+
+## Result
 
 The virtual machine was successfully created and accessed remotely. The required file was created and verified successfully.
