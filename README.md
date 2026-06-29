@@ -22,7 +22,7 @@ The goal of this homework was to:
 
 A Debian Virtual Machine was successfully created on Google Cloud Platform.
 
-![VM Instance](images/vm-instance.png)
+![VM Instance](./images/vm-instance.png)
 
 ---
 
@@ -30,7 +30,7 @@ A Debian Virtual Machine was successfully created on Google Cloud Platform.
 
 The virtual machine was successfully reached from my local computer using the `ping` command.
 
-![Ping Test](images/ping-test.png)
+![Ping Test](./images/ping-test.png)
 
 ---
 
@@ -43,3 +43,12 @@ Commands executed:
 ```bash
 echo "Hello i2i Academy!" > hello.txt
 cat hello.txt
+```
+
+![SSH Connection](./images/ssh-hello.png)
+
+---
+
+## Result
+
+The virtual machine was successfully created and accessed remotely. The required file was created and verified successfully.
